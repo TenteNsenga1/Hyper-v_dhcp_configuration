@@ -34,6 +34,12 @@ showcasing how to setup a dchp and web services using Hyper-V platform
 ![image](https://github.com/user-attachments/assets/acd2b0de-b28c-48fc-8f94-51a595c2f1f1)
 ![image](https://github.com/user-attachments/assets/06cb9bff-6971-461d-8b5e-3a810d0af60a)
 ![image](https://github.com/user-attachments/assets/d40c465b-b6b9-41dd-b45b-c13176833d31)
+![image](https://github.com/user-attachments/assets/185e0a33-bfdf-4b5a-aa2d-398545dcdd5c)
+![image](https://github.com/user-attachments/assets/896fdf4e-48e5-478b-8662-4107861d48bc)
+![image](https://github.com/user-attachments/assets/04eed69c-ad1b-41ec-a49f-491dfd115cfc)
+
+
+
 
 
 

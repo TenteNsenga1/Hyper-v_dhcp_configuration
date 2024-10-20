@@ -22,3 +22,4 @@ showcasing how to setup a dchp and web services using Hyper-V platform
 ![image](https://github.com/user-attachments/assets/123a424b-32fc-4e05-b889-e6492ab812ee)
 
 # 2. configure DHCP(SRV)
+![image](https://github.com/user-attachments/assets/ff4b025b-bfe2-4687-a554-9d98caa16859)

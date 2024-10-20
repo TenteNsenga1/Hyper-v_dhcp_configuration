@@ -47,8 +47,8 @@ showcasing how to setup a dchp and web services using Hyper-V platform
 ![image](https://github.com/user-attachments/assets/aa458bcb-f8e8-420e-9cbe-5a840b507cd8)
 ![image](https://github.com/user-attachments/assets/f5280253-4cf7-4085-ae42-57638128a682)
 ![image](https://github.com/user-attachments/assets/f94811ea-2e7d-4de7-93a7-455ff147457b)
-<br>
-<br>
+br
+br
 ![image](https://github.com/user-attachments/assets/57369409-77b2-423f-b82d-0988817c8d6d)
 ## can't ping! why? because of the firewall, desable firewall on all the machines 
 ![image](https://github.com/user-attachments/assets/7390a90f-8424-4b84-8f7d-bf895bcf2ad6)

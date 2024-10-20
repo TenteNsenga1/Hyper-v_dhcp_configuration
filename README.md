@@ -38,7 +38,7 @@ showcasing how to setup a dchp and web services using Hyper-V platform
 ![image](https://github.com/user-attachments/assets/896fdf4e-48e5-478b-8662-4107861d48bc)
 ![image](https://github.com/user-attachments/assets/04eed69c-ad1b-41ec-a49f-491dfd115cfc)
 
-# 3. comfigure PC1 and PC2 to be DHCP clients 
+# 3. comfigure PC1 and PC2 to be DHCP clients and see if they can ping 
 ![image](https://github.com/user-attachments/assets/ac122ddc-d209-46f1-9873-f9b8f4132c1f)
 ![image](https://github.com/user-attachments/assets/6f3e81dd-4876-4e93-8f56-980876e45431)
 ![image](https://github.com/user-attachments/assets/fe8bc23d-7ea8-4271-b870-d3c8b2a51c45)
